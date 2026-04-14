@@ -36,7 +36,7 @@ No installation needed!
 
 ## 📱 Demo
 Open `index.html` for live demo.  
-*(Add screenshot here: ![Screenshot](Screenshot(48).png))*
+*(Add screenshot here: ![Screenshot](Screenshot (48).png))*
 
 ## 🔧 Customization Ideas
 - Replace random logic with name-based algorithm (e.g., sum char codes).
